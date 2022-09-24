@@ -20,5 +20,4 @@ Process:
 Outcome:
 
 - Metformin slightly improved the HbA1c of patients with diabetes; however, more interventions are needed in order to see a substantial improvement of HbA1c
-
--Metformin alone is not enough to change a patient's diabetes status from diabetic to pre-diabetic or nondiabetic
+- Metformin alone is not enough to change a patient's diabetes status from diabetic to pre-diabetic or nondiabetic
