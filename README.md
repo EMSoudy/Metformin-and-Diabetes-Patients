@@ -4,19 +4,19 @@ Analyzing the effect(s) of Metformin, an oral drug used to treat high blood suga
 
 Included:
 
-	- Spreadsheet of all data
-	- JSON code (Visual Studio Code)
-	- jQuery code (Linux via ACER)
-	- CSV output from jQuery code 
+- Spreadsheet of all data
+- JSON code (Visual Studio Code)
+- jQuery code (Linux via ACER)
+- CSV output from jQuery code 
 
 Data was provided from randomly sampled patients with diabetes to understand the effects of a single drug, Metformin and their HbA1c
 
 Process:
 
-	- Excel file was converted into a JSON code from scratch
-	- JSON code only included data relevant to analyzing the effects of Metformin
-	- jQuery code was created to turn the JSON code into a CSV table
-	- Outcome of jQuery code was a table in  CSV format
+- Excel file was converted into a JSON code from scratch
+- JSON code only included data relevant to analyzing the effects of Metformin
+- jQuery code was created to turn the JSON code into a CSV table
+- Outcome of jQuery code was a table in  CSV format
 
 Outcome:
 
