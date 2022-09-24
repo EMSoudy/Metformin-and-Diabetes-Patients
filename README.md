@@ -13,10 +13,9 @@ Data was provided from randomly sampled patients with diabetes to understand the
 
 Process:
 
-- Excel file was converted into a JSON code from scratch
-- JSON code only included data relevant to analyzing the effects of Metformin
-- jQuery code was created to turn the JSON code into a CSV table
-- Outcome of jQuery code was a table in  CSV format
+- Excel file was converted into a JSON file from scratch
+- The JSON includes only data relevant to analyzing the effects of Metformin
+- A syntax of jQuery was created to turn the JSON into a table in CSV format
 
 Outcome:
 
